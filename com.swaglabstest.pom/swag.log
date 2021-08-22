@@ -1,0 +1,57 @@
+[main] DEBUG SwagApplication  - ReadConfig is initiated
+  [main] DEBUG SwagApplication  - ReadConfig is initiated
+  [main] DEBUG SwagApplication  - ReadConfig is initiated
+  [main] DEBUG SwagApplication  - ReadConfig is initiated
+  2021-08-22-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-0-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-4721-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-9007-main--DEBUG-SwagApplication:ReadConfig is initiated
+  2021-08-22-13164-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:42:24,934-0-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:42:30,091-5157-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:42:34,218-9284-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:42:39,003-14069-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:47:54,724-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:47:54,726-main--INFO -SwagApplication:chrome initiated successfully
+  22 Aug 2021 10:47:57,971-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:48:00,612-main--DEBUG-SwagApplication:Locked user logged in successfully
+  22 Aug 2021 10:48:01,269-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:48:01,272-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:48:01,273-main--INFO -SwagApplication:chrome initiated successfully
+  22 Aug 2021 10:48:03,288-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:48:04,975-main--DEBUG-SwagApplication:Performance glitch user logged in successfully
+  22 Aug 2021 10:48:05,803-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:48:05,806-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:48:05,807-main--INFO -SwagApplication:chrome initiated successfully
+  22 Aug 2021 10:48:08,145-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:48:10,199-main--DEBUG-SwagApplication:Problem user logged in successfully
+  22 Aug 2021 10:48:10,525-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:48:10,528-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:48:10,528-main--INFO -SwagApplication:chrome initiated successfully
+  22 Aug 2021 10:48:14,092-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:48:16,183-main--DEBUG-SwagApplication:Standard user logged in successfully
+  22 Aug 2021 10:48:16,458-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:49:02,908-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:49:02,911-main--INFO -SwagApplication:edge initiated successfully
+  22 Aug 2021 10:49:56,288-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:50:08,352-main--DEBUG-SwagApplication:Locked user logged in successfully
+  22 Aug 2021 10:50:09,183-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:50:09,186-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:50:09,186-main--INFO -SwagApplication:edge initiated successfully
+  22 Aug 2021 10:50:13,895-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:50:17,610-main--DEBUG-SwagApplication:Performance glitch user logged in successfully
+  22 Aug 2021 10:50:18,227-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:50:18,230-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:50:18,230-main--INFO -SwagApplication:edge initiated successfully
+  22 Aug 2021 10:50:21,755-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:50:24,952-main--DEBUG-SwagApplication:Problem user logged in successfully
+  22 Aug 2021 10:50:25,095-main--DEBUG-SwagApplication:Browser terminated successfully
+  22 Aug 2021 10:50:25,101-main--DEBUG-SwagApplication:ReadConfig is initiated
+  22 Aug 2021 10:50:25,101-main--INFO -SwagApplication:edge initiated successfully
+  22 Aug 2021 10:50:28,796-main--DEBUG-SwagApplication:Browser launched successfully
+  22 Aug 2021 10:50:32,770-main--DEBUG-SwagApplication:Standard user logged in successfully
+  22 Aug 2021 10:50:33,335-main--DEBUG-SwagApplication:Browser terminated successfully
+  

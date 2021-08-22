@@ -51,5 +51,13 @@ public class ReadConfig {
 		return prop.getProperty("universal_password");
 	}
 	
+	public int getImplicitlyWait() {
+		return Integer.parseInt(prop.getProperty("implicitlywait"));
+	}
+	
+	public int getPageLoadoutTime() {
+		return Integer.parseInt(prop.getProperty("pageloadouttime"));
+	}
+	
 	
 }

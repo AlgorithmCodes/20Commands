@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-22T04:01:01Z" name="Suite" finished-at="2021-08-22T04:01:19Z" duration-ms="17527">
+  <suite started-at="2021-08-22T05:19:02Z" name="Suite" finished-at="2021-08-22T05:20:33Z" duration-ms="90791">
     <groups>
     </groups>
-    <test started-at="2021-08-22T04:01:01Z" name="Test" finished-at="2021-08-22T04:01:19Z" duration-ms="17527">
+    <test started-at="2021-08-22T05:19:02Z" name="AllUsersLoginTest" finished-at="2021-08-22T05:20:33Z" duration-ms="90791">
       <class name="com.swaglabs.testcases.LoginTest">
-        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:01Z" name="init" finished-at="2021-08-22T04:01:06Z" duration-ms="4419" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:19:02Z" name="init" finished-at="2021-08-22T05:20:05Z" duration-ms="62670" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="loginAsLockedUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:06Z" name="loginAsLockedUser" finished-at="2021-08-22T04:01:06Z" duration-ms="601" status="PASS">
+        <test-method signature="loginAsLockedUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:05Z" name="loginAsLockedUser" finished-at="2021-08-22T05:20:08Z" duration-ms="3082" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsLockedUser -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:06Z" name="closeDriver" finished-at="2021-08-22T04:01:07Z" duration-ms="276" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:08Z" name="closeDriver" finished-at="2021-08-22T05:20:09Z" duration-ms="830" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:07Z" name="init" finished-at="2021-08-22T04:01:09Z" duration-ms="2711" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:09Z" name="init" finished-at="2021-08-22T05:20:16Z" duration-ms="7701" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="loginAsPerformanceGlitchUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:09Z" name="loginAsPerformanceGlitchUser" finished-at="2021-08-22T04:01:10Z" duration-ms="512" status="PASS">
+        <test-method signature="loginAsPerformanceGlitchUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:16Z" name="loginAsPerformanceGlitchUser" finished-at="2021-08-22T05:20:17Z" duration-ms="726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsPerformanceGlitchUser -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:10Z" name="closeDriver" finished-at="2021-08-22T04:01:10Z" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:17Z" name="closeDriver" finished-at="2021-08-22T05:20:18Z" duration-ms="614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:10Z" name="init" finished-at="2021-08-22T04:01:14Z" duration-ms="3677" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:18Z" name="init" finished-at="2021-08-22T05:20:24Z" duration-ms="6008" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="loginAsProblemUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:14Z" name="loginAsProblemUser" finished-at="2021-08-22T04:01:14Z" duration-ms="513" status="PASS">
+        <test-method signature="loginAsProblemUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:24Z" name="loginAsProblemUser" finished-at="2021-08-22T05:20:24Z" duration-ms="716" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsProblemUser -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:14Z" name="closeDriver" finished-at="2021-08-22T04:01:15Z" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:24Z" name="closeDriver" finished-at="2021-08-22T05:20:25Z" duration-ms="141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:15Z" name="init" finished-at="2021-08-22T04:01:18Z" duration-ms="3596" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:25Z" name="init" finished-at="2021-08-22T05:20:31Z" duration-ms="6473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="loginAsStandardUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:18Z" name="loginAsStandardUser" finished-at="2021-08-22T04:01:19Z" duration-ms="490" status="PASS">
+        <test-method signature="loginAsStandardUser()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:31Z" name="loginAsStandardUser" finished-at="2021-08-22T05:20:32Z" duration-ms="1200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsStandardUser -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@4ff8d125]" started-at="2021-08-22T04:01:19Z" name="closeDriver" finished-at="2021-08-22T04:01:19Z" duration-ms="241" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.swaglabs.testcases.LoginTest@3403e2ac]" started-at="2021-08-22T05:20:32Z" name="closeDriver" finished-at="2021-08-22T05:20:33Z" duration-ms="562" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
       </class> <!-- com.swaglabs.testcases.LoginTest -->
-    </test> <!-- Test -->
+    </test> <!-- AllUsersLoginTest -->
   </suite> <!-- Suite -->
 </testng-results>
