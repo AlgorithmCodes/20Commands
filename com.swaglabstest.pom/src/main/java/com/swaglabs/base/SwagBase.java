@@ -40,5 +40,10 @@ public class SwagBase {
 
 	}
 	
+	public static void tearDown() {
+		
+		driver.close();
+	}
+	
 
 }
